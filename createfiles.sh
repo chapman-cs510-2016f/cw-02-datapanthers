@@ -4,7 +4,6 @@
 if [ -d tmpfiles ]
 then
 	rm -r tmpfiles
-	echo removing directory
 fi
 
 # create directory
@@ -27,7 +26,6 @@ done
 if [ -d tmpfiles ]
 then 
 	rm -r tmpfiles
-	echo removing directory
 fi
 
 
