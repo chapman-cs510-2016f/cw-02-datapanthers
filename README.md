@@ -1,8 +1,8 @@
 # CS510 CW 2
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** _Simrath Ratra, Afnan Alqahtani, Andrew Nguyen_
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-02-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-02-YOURNAME)
+[![Build Status](https://travis-ci.com/chapman-cs510-2016f/hw-02-anguy044.svg?token=qWfs2otGonuv5L5oquYF&branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-02-YOURNAME)
 
 **Due date:** 2016/09/13
 
@@ -20,7 +20,7 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**This assignment was good to give us hands on experience writing code using VIM, and learning to use python and .sh files together. We had a few tutorials in learning to use VIM before class, and I felt the assigment was good to give us a better feel on how to use it. We did felt there were a few things, despite reading the tutorials, we did not know how to implement until the class with the instructor's assistance. But overall, this was good to help solidify what we learned. **
 
 ## Honor Pledge
 
@@ -31,4 +31,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Simrath Ratra, Afnan Alqahtani, Andrew Nguyen**
