@@ -7,7 +7,8 @@ then
 		printf $i 
 		printf " " 
 	done
-	echo
+	# added echo to end on a new line
+    echo
 else
 	exit 1
 fi
