@@ -29,4 +29,18 @@ then
 fi
 
 
-
+### INSTRUCTOR COMMENTS
+# Excellent. One major comment: note that you copy-paste the same code
+# in two places (beginning and end removal of tmpfiles). This is bad.
+# If you have to change code later, you have to change every copy.
+# Instead, modularize your code by using functions.  For example:
+#
+#  function remove_files {
+#    if [ -d tmpfile ]; then
+#      rm -r tmpfiles
+#    fi
+#  }
+#
+# Then you can simply call the function in two places. If you have
+# to modify the code later, you modify it only one place, and every
+# call to that function uses the updated code.
